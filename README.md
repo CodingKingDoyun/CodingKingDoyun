@@ -10,6 +10,7 @@
 <div align="center">
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmdkrehdbs)](https://solved.ac/dmdkrehdbs)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmdkrehdbs&theme=warm)
 </div>
 
 <h2 align="center"> 🔥🔥 포기란 없다 🔥🔥 </h2>
