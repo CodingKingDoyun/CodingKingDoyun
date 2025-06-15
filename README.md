@@ -1,4 +1,4 @@
-<h1 align="center"> ☠ CodingKingDoyun ☠️ </h1>
+<h1 align="center"> ☠️ CodingKingDoyun ☠️ </h1>
 <div align="center">
   이도윤은 죽었다.</br>
   그리고 코딩왕도윤으로 다시 태어났다..</br>
@@ -16,16 +16,6 @@
 <h2 align="center"> 🔥🔥 포기란 없다 🔥🔥 </h2>
 <div align="center">
   💪 Solved.ac Gold 달성하기 ~ 2025. 6. 15</br>
-  💪 Do it! 알고리즘 코딩 테스트 C++ 30번 문제까지 풀기 ~ 2025. 6. 15</br>
+  💪 Do it! 알고리즘 코딩 테스트 C++ 15번 문제까지 풀기 ~ 2025. 6. 15</br>
   </br>
 </div>
-
-
-<div align="center">
-  
-  **이제 상상하던대로 살기 시작할 시간이다**</br>
-  -Henry James-</br>
-</div>
-
-
-
