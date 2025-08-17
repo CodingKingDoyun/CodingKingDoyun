@@ -7,7 +7,7 @@
 
 <h2 align="center"> 🔥🔥 포기란 없다 🔥🔥 </h2>
 <div align="center">
-  <s>💪 Solved.ac Gold 달성하기</s> 2025.08.17 달성!</br> 
+  <s>💪 Solved.ac Gold 달성하기</s> <b>2025.08.17 달성!</b></br> 
   💪 Do it! 알고리즘 코딩 테스트 C++ 15번 문제까지 풀기</br>
 </div>
 
